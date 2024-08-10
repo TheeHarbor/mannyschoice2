@@ -32,7 +32,8 @@ p {
 
 a {
     text-decoration: none;
-    color: #007bff;
+    color: #7edc8f;
+    text-emphasis: bold;
 }
 
 a:hover {
